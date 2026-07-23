@@ -6,11 +6,11 @@
 
 | Папка | Описание | Подробнее |
 |-------|----------|-----------|
-| [Task1/](./Task1) | Задание № 1 | [README](./Task1/README.md) |
-| [Task2/](./Task2) | Задание № 2 | [README](./Task2/README.md) |
-| [Task3/](./Task3) | Задание № 3 | [README](./Task3/README.md) |
-| [Task4/](./Task4) | Задание № 4 | [README](./Task4/README.md) |
-| [LastTasks/](./LastTasks) | Задания № 5-8 | [README](./LastTasks/README.md) |
+| [Task1/](./Task1) | Задание № 1 | [Задание к лекции 1](./Task1/README.md) |
+| [Task2/](./Task2) | Задание № 2 | [Задание к лекции 2](./Task2/README.md) |
+| [Task3/](./Task3) | Задание № 3 | [Задание к лекции 3](./Task3/README.md) |
+| [Task4/](./Task4) | Задание № 4 | [Задание к лекции 4](./Task4/README.md) |
+| [LastTasks/](./LastTasks) | Задания № 5-8 | [Задания к лекциям 5 - 8](./LastTasks/README.md) |
 
 ## Описание
 
